@@ -20,6 +20,12 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
+      <groupId>org.drools</groupId>
+      <artifactId>drools-scenario-simulation-backend</artifactId>
+      <version>7.52.0.Final-redhat-00008</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
       <groupId>org.optaplanner</groupId>
       <artifactId>optaplanner-core</artifactId>
       <version>7.59.0.Final-redhat-00006</version>
